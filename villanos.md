@@ -6,4 +6,4 @@
 4. Doomsday
 5. Deadshot
 6. Harley
-7. Batman
+7. Spiderman
